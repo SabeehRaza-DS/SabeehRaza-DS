@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Sabeeh
+
+Highly motivated Data Scientist, seeking transition from engineering to more data driven business decisions. I have gained skills like ETL pipelines, EDA, data visualization, python, SQL and ML dataset validation techniques.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabeehRaza-DS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SabeehRaza-DS/SabeehRaza-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
