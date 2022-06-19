@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabeeh</h1>
-<h3>Highly motivated Data Scientist, seeking transition from engineering to more data driven business decisions. I have gained skills like ETL pipelines, EDA, data visualisation, python, SQL and ML dataset validation techniques.</h3>
+<h4>Highly motivated Data Scientist, seeking transition from engineering to more data driven business decisions. I have gained skills like ETL pipelines, EDA, data visualisation, python, SQL and ML dataset validation techniques.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
