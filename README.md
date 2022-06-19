@@ -12,3 +12,6 @@
 <br></br>
 
 ![Sabeeh GitHub stats](https://github-readme-stats.vercel.app/api?username=SabeehRaza-DS&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabeehRaza-DS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
